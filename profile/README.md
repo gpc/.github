@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ This is the GPC or Grails Plugin Collective. A place for Grails plugins.
-🌈 The life of these plugins are greatly dependent on the contributions from the community. Any pull-request, bug-report og feature-request are taken into consideration.
-🧙 Remember, this is a community effort. No plugin here can survive without active involvment from the community. 
+* 🙋‍♀️ This is the GPC or Grails Plugin Collective. A place for Grails plugins.
+* 🌈 The life of these plugins are greatly dependent on the contributions from the community. Any pull-request, bug-report og feature-request are taken into consideration.
+* 🧙 Remember, this is a community effort. No plugin here can survive without active involvment from the community. 
 
 
 
