@@ -4,10 +4,10 @@
 * 🌈 The life of these plugins are greatly dependent on the contributions from the community. Any pull-request, bug-report og feature-request are taken into consideration.
 * 🧙 Remember, this is a community effort. No plugin here can survive without active involvment from the community. 
 
+<!--
 
 See https://github.com/gpc/release-demo for instructions on how to structure your project to make it ready for The Grails Plugin Collective. 
 
-<!--
 
 **Here are some ideas to get you started:**
 
